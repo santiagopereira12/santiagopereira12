@@ -20,7 +20,7 @@
 - En mis tiempos libres me apasiona el aprendizaje de nuevas tecnologias y la lectura.
 - Actualmente estoy culminando mi carrera Profesional en Ingeniería de Sistemas.
 - Portafolio Personal [link](https://my-personal-portafolio.netlify.app/)
-- Actualmente estoy abierto para adquirir nuevos retos de apredizaje o laborales, esta es [my resume](https://www.linkedin.com/in/santiago-pereira-0912/)
+- Actualmente estoy abierto para adquirir nuevos retos de apredizaje o laborales, esta es la [descripción de mi perfil](https://www.linkedin.com/in/santiago-pereira-0912/)
 
 <br><br>
 
