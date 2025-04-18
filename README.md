@@ -16,7 +16,7 @@
 <br>
 
 - Self-taught and passionate Back-End Developer.
-- - I have knowledge in database administration.
+- I have knowledge in database administration.
 - My hobbies are reading and playing video games in my free time.
 - Currently pursuing and completing my degree in systems engineering.
 - Personal website [link](my-personal-portafolio.netlify.app/)
