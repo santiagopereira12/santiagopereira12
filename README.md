@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Santiago Pereira </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola , Soy Santiago Pereira </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/santiagopereira12/santiagopereira12"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
@@ -15,12 +15,12 @@
 
 <br>
 
-- Self-taught and passionate Back-End Developer.
-- I have knowledge in database administration.
-- My hobbies are reading and playing video games in my free time.
-- Currently pursuing and completing my degree in systems engineering.
-- Personal website [link](https://my-personal-portafolio.netlify.app/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.linkedin.com/in/santiago-pereira-0912/)
+- Soy Desarrollador Back-End enfocado en el aprendizaje continuo y bastante autodidacta.
+- Tengo conocimientos en Administración de Base de Datos.
+- En mis tiempos libres me apasiona el aprendizaje de nuevas tecnologias y la lectura.
+- Actualmente estoy culminando mi carrera Profesional en Ingeniería de Sistemas.
+- Portafolio Personal [link](https://my-personal-portafolio.netlify.app/)
+- Actualmente estoy abierto para adquirir nuevos retos de apredizaje o laborales, esta es [my resume](https://www.linkedin.com/in/santiago-pereira-0912/)
 
 <br><br>
 
