@@ -15,11 +15,12 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Self-taught and passionate Back-End Developer.
+- - I have knowledge in database administration.
+- My hobbies are reading and playing video games in my free time.
+- Currently pursuing and completing my degree in systems engineering.
+- Personal website [link](my-personal-portafolio.netlify.app/)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.linkedin.com/in/santiago-pereira-0912/)
 
 <br><br>
 
