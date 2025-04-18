@@ -19,7 +19,7 @@
 - I have knowledge in database administration.
 - My hobbies are reading and playing video games in my free time.
 - Currently pursuing and completing my degree in systems engineering.
-- Personal website [link](my-personal-portafolio.netlify.app/)
+- Personal website [link](https://my-personal-portafolio.netlify.app/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.linkedin.com/in/santiago-pereira-0912/)
 
 <br><br>
